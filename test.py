@@ -1,2 +1,4 @@
 def simple_func():
-    pass
+    print("hello")
+
+
